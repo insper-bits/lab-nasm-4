@@ -1,0 +1,7 @@
+{
+    "remote.containers.defaultExtensions": [
+        "eamodio.gitlens",
+        "mutantdino.resourcemonitor",
+        "ngtystr.ppm-pgm-viewer-for-vscode"
+    ]
+}
